@@ -1,5 +1,12 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Adding API_KEY
+Here are the steps:
+1) Grap the file keysCopy.js present in src directory
+2) Rename it to keys.js
+3) Add Youtube API_KEY in to that file
+
+
 ## Available Scripts
 
 In the project directory, you can run:
